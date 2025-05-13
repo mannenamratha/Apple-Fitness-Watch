@@ -1,7 +1,3 @@
-# Apple-Fitness-Watch
-Certainly! Here's a tailored `README.md` template for your project titled **Apple-Fitness-Watch**. This template is designed to provide a comprehensive overview of your project, including its purpose, features, installation instructions, and more.
-
----
 
 # Apple-Fitness-Watch
 
